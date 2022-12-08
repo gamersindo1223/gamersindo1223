@@ -5,7 +5,7 @@
 - 📫 Reach me at Discord : 
 
 ![Discord](https://discord.c99.nl/widget/theme-2/694370838719234151.png)
-
+![Discord](https://lanyard.cnrad.dev/api/694370838719234151?idleMessage=Hello%20there!)
 - ⚡ Fun fact **I started coding 2 years ago**
 
 - ⚡ Fun fact **I'dont believe cdn exist**
