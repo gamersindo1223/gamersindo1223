@@ -2,18 +2,12 @@
 <h3 align="center">Teenager that just like to code and not a weeb</h3>
 
 
-<h2> - 📫 Reach me at Discord : 
-    
+## - 📫 Reach me at Discord : 
 ![Discord](https://lanyard.cnrad.dev/api/694370838719234151?idleMessage=Hello%20there!)
-- ⚡ Fun fact **I started coding 2 years ago**
 
-- ⚡ Fun fact **I didn't believe javascript is bad!**
-<details>
-    <summary>My social Media</summary>
-    <p align="left">
-      <p>Nothing yet!</p>
-    </p>
-</details>
+### ⚡ Fun facts:
+- **I didn't believe javascript is bad!**
+- **I started coding, 2 Years Ago !!**
 
 <details>
     <summary align="left">Languages and Tools:</summary> <a
@@ -27,17 +21,15 @@
   </details>
     
 <details>
-    <summary align="left">My accomplishments:</summary>
-  <hr>
+    <summary align="left">My Achievements:</summary>
     <h2>Stats at github</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=gamersindo1223&show_icons=true&theme=tokyonight" alt="Gamersindo"></a>
     <h2>Made my first api!</h2>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamersindo1223&repo=Api-genshincodelist" alt="Gamersindo"></a>
-  </details>
- <h2>My completed watching anime List</h2>
-<details>
-    <summary align="left">AnimeList Completed</summary>
+    <a href="https://github.com/gamersindo1223/Api-genshincodelist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gamersindo1223&repo=Api-genshincodelist" alt="Gamersindo"></a>
+</details>
 
+<details>
+    <summary align="left">List Of Animes Completed:</summary>
 
 <img height="200px" width="150px" title="Seishun No buta" src="https://animeanime.jp/imgs/p/ypfYP8UGHHv1ocFz1cgmQGihmaytrq_oqaqr/186139.jpg"> <img height="200px" width="150px" title="Meitantei Konan Meikyū no Kurosurōdo" src="https://m.media-amazon.com/images/M/MV5BYWM1NzVlZmQtYTJhYS00NTljLWEyNzEtNzVkNDgzYWY2OGQ4XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg"> 
 
