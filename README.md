@@ -34,15 +34,10 @@
     <h2>Made my first api!</h2>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamersindo1223&repo=Api-genshincodelist" alt="Gamersindo"></a>
   </details>
- <h2>My completed watching anime List</h2>
-<details>
-    <summary align="left">AnimeList Completed</summary>
+ <h2>MyAnimelsit</h2>
+<!-- MAL_ACTIVITY:start -->
 
-
-<img height="200px" width="150px" title="Seishun No buta" src="https://animeanime.jp/imgs/p/ypfYP8UGHHv1ocFz1cgmQGihmaytrq_oqaqr/186139.jpg"> <img height="200px" width="150px" title="Meitantei Konan Meikyū no Kurosurōdo" src="https://m.media-amazon.com/images/M/MV5BYWM1NzVlZmQtYTJhYS00NTljLWEyNzEtNzVkNDgzYWY2OGQ4XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg"> 
-
-<!-- MAL_ANIME_COMPLETED:end -->
-</details>
+<!-- MAL_ACTIVITY:end -->
 <footer>
   <p>I stole this readme from  <a href="https://github.com/MoonLGH/MoonLGH/blob/main/README.md">MoonLGH</a></p>
 </footer>
