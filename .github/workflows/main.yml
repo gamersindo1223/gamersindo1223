@@ -15,5 +15,6 @@ jobs:
         with:
           username: "gamersindo1223"
           gh_token: ${{ github.token }}
+          useScraping: true
           limit: 100000
           readme_path: "gamersindo1223/gamersindo1223"
