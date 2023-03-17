@@ -37,7 +37,7 @@
  <h2>MyAnimelsit</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Meitantei Conan: Hannin no Hanzawa-san](https://MyAnimeList.net/anime.php?id=50010) Episode 11 on (Yesterday, 1:01 AM)
+- 📺 Watched [Meitantei Conan: Hannin no Hanzawa-san](https://MyAnimeList.net/anime.php?id=50010) Episode 11 on (Mar 15, 1:01 AM)
 - 📺 Watched [Ansatsu Kyoushitsu 2nd Season](https://MyAnimeList.net/anime.php?id=30654) Episode 25 on (Mar 4, 4:18 AM)
 - 📺 Watched [Ansatsu Kyoushitsu](https://MyAnimeList.net/anime.php?id=24833) Episode 22 on (Mar 4, 4:18 AM)
 - 📺 Watched [Ansatsu Kyoushitsu](https://MyAnimeList.net/anime.php?id=24833) Episode 22 on (Mar 4, 4:18 AM)
