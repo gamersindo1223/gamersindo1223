@@ -34,20 +34,9 @@
     <h2>Made my first api!</h2>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamersindo1223&repo=Api-genshincodelist" alt="Gamersindo"></a>
   </details>
- <h2>MyAnimelsit</h2>
-<!-- MAL_ACTIVITY:start -->
-
-- 📺 Watched [Meitantei Conan: Hannin no Hanzawa-san](https://MyAnimeList.net/anime.php?id=50010) Episode 11 on (Mar 15, 1:01 AM)
-- 📺 Watched [Ansatsu Kyoushitsu 2nd Season](https://MyAnimeList.net/anime.php?id=30654) Episode 25 on (Mar 4, 4:18 AM)
-- 📺 Watched [Ansatsu Kyoushitsu](https://MyAnimeList.net/anime.php?id=24833) Episode 22 on (Mar 4, 4:18 AM)
-- 📺 Watched [Ansatsu Kyoushitsu](https://MyAnimeList.net/anime.php?id=24833) Episode 22 on (Mar 4, 4:18 AM)
-- 📺 Watched [Komi-san wa, Comyushou desu.](https://MyAnimeList.net/anime.php?id=48926) Episode 6 on (Mar 4, 4:15 AM)
-- 📺 Watched [Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai](https://MyAnimeList.net/anime.php?id=38329) Episode 1 on (Mar 4, 4:14 AM)
-- 📺 Watched [Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai](https://MyAnimeList.net/anime.php?id=37450) Episode 13 on (Mar 4, 4:13 AM)
-- 📺 Watched [Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai](https://MyAnimeList.net/anime.php?id=37450) Episode 13 on (Mar 4, 4:13 AM)
-- 📺 Watched [Lycoris Recoil](https://MyAnimeList.net/anime.php?id=50709) Episode 13 on (Mar 4, 4:12 AM)
-
-<!-- MAL_ACTIVITY:end -->
+ <h2>MyAnimelist</h2>
+ <!-- MAL_ANIMECOMPLETED:GRID -->
+ <!-- MAL_ANIMECOMPLETED:GRID_END -->
 <footer>
   <p>I stole this readme from  <a href="https://github.com/MoonLGH/MoonLGH/blob/main/README.md">MoonLGH</a></p>
 </footer>
