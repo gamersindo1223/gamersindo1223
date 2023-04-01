@@ -3,7 +3,7 @@
 
 
 <h2> - 📫 Reach me at Discord : 
-    
+   
 ![Discord](https://lanyard.cnrad.dev/api/694370838719234151?idleMessage=Hello&20there!)
 - ⚡ Fun fact **I started coding 2 years ago**
 
