@@ -4,7 +4,7 @@
 <h2>
     - 📫 Reach me at Discord : 
 </h2>
-<img src="https://lanyard.cnrad.dev/api/694370838719234151?idleMessage=Hello there!", title="Discord"></img>
+<img src="https://lanyard.cnrad.dev/api/694370838719234151?idleMessage=Hello&20there!", title="Discord"></img>
 
 
 - ⚡ Fun fact **I started coding 2 years ago**
