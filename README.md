@@ -4,7 +4,7 @@
 
 <h2> - 📫 Reach me at Discord : 
     
-![Discord](https://lanyard.cnrad.dev/api/694370838719234151?idleMessage=Hello%20there!)
+![Discord](https://lanyard.cnrad.dev/api/694370838719234151?idleMessage=Hello there!)
 - ⚡ Fun fact **I started coding 2 years ago**
 
 - ⚡ Fun fact **I didn't believe javascript is bad!**
@@ -37,7 +37,7 @@
  <h2>MyAnimelist</h2>
  <!-- MAL_ANIMECOMPLETED:GRID -->
  <details>
-<summary align="left">MyAnimeList Completed</summary><img height="200px" width="150px" title="Assassination Classroom (Ansatsu Kyoushitsu)" src="https://cdn.myanimelist.net/images/anime/5/75639.jpg"><img height="200px" width="150px" title="Assassination Classroom Second Season (Ansatsu Kyoushitsu 2nd Season)" src="https://cdn.myanimelist.net/images/anime/8/77966.jpg"><img height="200px" width="150px" title="Lycoris Recoil (Lycoris Recoil)" src="https://cdn.myanimelist.net/images/anime/1392/124401.jpg"><img height="200px" width="150px" title="Rascal Does Not Dream of Bunny Girl Senpai (Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai)" src="https://cdn.myanimelist.net/images/anime/1301/93586.jpg"><img height="200px" width="150px" title="Rascal Does Not Dream of a Dreaming Girl (Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai)" src="https://cdn.myanimelist.net/images/anime/1613/102179.jpg"></details> 
+<summary align="left">MyAnimeList Completed</summary><img height="200px" width="150px" title="Assassination Classroom (Ansatsu Kyoushitsu)" src="https://cdn.myanimelist.net/images/anime/5/75639.jpg"><img height="200px" width="150px" title="Assassination Classroom Second Season (Ansatsu Kyoushitsu 2nd Season)" src="https://cdn.myanimelist.net/images/anime/8/77966.jpg"><img height="200px" width="150px" title="Lycoris Recoil (Lycoris Recoil)" src="https://cdn.myanimelist.net/images/anime/1392/124401.jpg"><img height="200px" width="150px" title="Rascal Does Not Dream of Bunny Girl Senpai (Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai)" src="https://cdn.myanimelist.net/images/anime/1479/135004.jpg"><img height="200px" width="150px" title="Rascal Does Not Dream of a Dreaming Girl (Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai)" src="https://cdn.myanimelist.net/images/anime/1613/102179.jpg"></details> 
 <!-- MAL_ANIMECOMPLETED:GRID_END -->
 <footer>
   <p>I stole this readme from  <a href="https://github.com/MoonLGH/MoonLGH/blob/main/README.md">MoonLGH</a></p>
