@@ -9,7 +9,7 @@ jobs:
     name: Update this repo's README with latest MAL history
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: MyAnimeList readme workflow
         uses: gamersindo1223/MAL-ReadmeList@main
         with:
