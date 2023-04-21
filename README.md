@@ -43,10 +43,10 @@
 <!-- MAL_ANIMECOMPLETED:GRID_END -->
 <!-- MAL_ANIMEWATCHING:GRID -->
  <details>
-<summary align="left">MyAnimeList Watching</summary><img height="200px" width="150px" title="Detective Conan: The Culprit Hanzawa (Meitantei Conan: Hannin no Hanzawa-san)" src="https://cdn.myanimelist.net/images/anime/1560/125527.jpg"></details> 
+<summary align="left">MyAnimeList Watching</summary><img height="200px" width="150px" title="[Oshi No Ko] ("Oshi no Ko")" src="https://cdn.myanimelist.net/images/anime/1812/134736.jpg"><img height="200px" width="150px" title=" (Buddy Daddies)" src="https://cdn.myanimelist.net/images/anime/1553/133767.jpg"><img height="200px" width="150px" title="Detective Conan: The Culprit Hanzawa (Meitantei Conan: Hannin no Hanzawa-san)" src="https://cdn.myanimelist.net/images/anime/1560/125527.jpg"></details> 
 <!-- MAL_ANIMEWATCHING:GRID_END -->
 <!-- MAL_ANIMEPTW:GRID -->
  <details>
-<summary align="left">MyAnimeList Plan To Watch</summary><img height="200px" width="150px" title="[Oshi No Ko] ("Oshi no Ko")" src="https://cdn.myanimelist.net/images/anime/1812/134736.jpg"><img height="200px" width="150px" title=" (Buddy Daddies)" src="https://cdn.myanimelist.net/images/anime/1553/133767.jpg"><img height="200px" width="150px" title="Komi Can't Communicate Season 2 (Komi-san wa Comyushou desu. 2nd Season)" src="https://cdn.myanimelist.net/images/anime/1108/121157.jpg"><img height="200px" width="150px" title="Rascal Does Not Dream of a Sister Venturing Out (Seishun Buta Yarou wa Odekake Sister no Yume wo Minai)" src="https://cdn.myanimelist.net/images/anime/1540/134808.jpg"><img height="200px" width="150px" title="Rascal Does Not Dream of a Knapsack Kid (Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai)" src="https://cdn.myanimelist.net/images/anime/1495/134809.jpg"></details> 
+<summary align="left">MyAnimeList Plan To Watch</summary><img height="200px" width="150px" title="Komi Can't Communicate Season 2 (Komi-san wa Comyushou desu. 2nd Season)" src="https://cdn.myanimelist.net/images/anime/1108/121157.jpg"><img height="200px" width="150px" title="Rascal Does Not Dream of a Sister Venturing Out (Seishun Buta Yarou wa Odekake Sister no Yume wo Minai)" src="https://cdn.myanimelist.net/images/anime/1540/134808.jpg"><img height="200px" width="150px" title="Rascal Does Not Dream of a Knapsack Kid (Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai)" src="https://cdn.myanimelist.net/images/anime/1495/134809.jpg"></details> 
 <!-- MAL_ANIMEPTW:GRID_END -->
 
