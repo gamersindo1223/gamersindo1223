@@ -6,7 +6,7 @@
 </h2>
 <img src="https://lanyard.cnrad.dev/api/694370838719234151?idleMessage=Hello&20there!", title="Discord"></img>
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sjq6ux0ewvqu7lu94667zjopl&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=sjq6ux0ewvqu7lu94667zjopl&redirect=true)
 - ⚡ Fun fact **I started coding 2 years ago**
 
 - ⚡ Fun fact **I didn't believe javascript is bad!**
