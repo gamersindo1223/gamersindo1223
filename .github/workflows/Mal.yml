@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: MyAnimeList readme workflow
-        uses: gamersindo1223/MAL-ReadmeList@main
+        uses: gamersindo1223/MAL-ReadmeList@Testing-branch
         with:
           gh_token: ${{ github.token }}
           mal_username: "gamersindo1223"
