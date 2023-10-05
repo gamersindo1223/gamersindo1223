@@ -12,9 +12,7 @@
 - ⚡ Fun fact **I didn't believe javascript is bad!**
 <details>
     <summary>My social Media</summary>
-    <p align="left">
-      <p>Nothing yet!</p>
-    </p>
+    @gamers_indo1223
 </details>
 
 <details>
