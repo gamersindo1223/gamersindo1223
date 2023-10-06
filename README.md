@@ -1,12 +1,11 @@
 <h1 align="center">Ohayo 👋, I'm Gamersindo</h1>
-<h3 align="center">Teenager that just like to code and not a weeb</h3>
-
+<h3 align="center">Just a teenager that love to code and watch anime</h3>
 <h2>
     - 📫 Reach me at Discord : 
 </h2>
 <img src="https://lanyard.cnrad.dev/api/694370838719234151?idleMessage=Hello%20there!%20", title="Discord"></img>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g6ueb4azhuk3zdjbz43pwaonsu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31g6ueb4azhuk3zdjbz43pwaonsu&redirect=true)
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31g6ueb4azhuk3zdjbz43pwaonsu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false" onclick="window.open('https://spotify-github-profile.vercel.app/api/view?uid=31g6ueb4azhuk3zdjbz43pwaonsu&redirect=true')">
 
 - ⚡ Fun fact **I started coding 2 years ago**
 
