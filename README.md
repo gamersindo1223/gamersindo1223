@@ -41,7 +41,7 @@
 <!-- MAL_ANIMECOMPLETED:GRID_END -->
 <!-- MAL_ANIMEWATCHING:GRID -->
  <details>
-<summary align="left">MyAnimeList Watching</summary><img height="200px" width="150px" title="The 100 Girlfriends Who Really Really Really Really Really Love You (Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo) • Eps (1/0)" src="https://cdn.myanimelist.net/images/anime/1812/136764.jpg"><img height="200px" width="150px" title="Frieren: Beyond Journey's End (Sousou no Frieren) • Eps (5/28)" src="https://cdn.myanimelist.net/images/anime/1015/138006.jpg"><img height="200px" width="150px" title="The Girl I Like Forgot Her Glasses (Suki na Ko ga Megane wo Wasureta) • Eps (1/13)" src="https://cdn.myanimelist.net/images/anime/1582/136325.jpg"></details> 
+<summary align="left">MyAnimeList Watching</summary><img height="200px" width="150px" title="The 100 Girlfriends Who Really Really Really Really Really Love You (Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo) • Eps (2/0)" src="https://cdn.myanimelist.net/images/anime/1812/136764.jpg"><img height="200px" width="150px" title="Frieren: Beyond Journey's End (Sousou no Frieren) • Eps (6/28)" src="https://cdn.myanimelist.net/images/anime/1015/138006.jpg"><img height="200px" width="150px" title="The Girl I Like Forgot Her Glasses (Suki na Ko ga Megane wo Wasureta) • Eps (1/13)" src="https://cdn.myanimelist.net/images/anime/1582/136325.jpg"></details> 
 <!-- MAL_ANIMEWATCHING:GRID_END -->
 <!-- MAL_ANIMEPTW:GRID -->
  <details>
