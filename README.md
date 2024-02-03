@@ -5,7 +5,7 @@
 </h2>
 <img src="https://lanyard.cnrad.dev/api/694370838719234151?idleMessage=Hello%20there!%20", title="Discord"></img>
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31g6ueb4azhuk3zdjbz43pwaonsu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" onclick="window.open('https://spotify-github-profile.vercel.app/api/view?uid=31g6ueb4azhuk3zdjbz43pwaonsu&redirect=true')">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w3d76oyju7uug52hu5ueemeldy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" onclick="window.open('https://spotify-github-profile.vercel.app/api/view?uid=31g6ueb4azhuk3zdjbz43pwaonsu&redirect=true')">
 
 - ⚡ Fun fact **I started coding 2 years ago**
 
