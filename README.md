@@ -3,13 +3,17 @@
 <h2>
     - 📫 Reach me at Discord : 
 </h2>
-<img src="https://lanyard.cnrad.dev/api/694370838719234151?idleMessage=Hello%20there!%20", title="Discord"></img>
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w3d76oyju7uug52hu5ueemeldy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" onclick="window.open('https://spotify-github-profile.vercel.app/api/view?uid=31g6ueb4azhuk3zdjbz43pwaonsu&redirect=true')">
+⚡ Fun fact **I started coding at 2020** <img align="right" alt="img" src="https://lanyard.cnrad.dev/api/694370838719234151?idleMessage=Hello%20there!%20" title="Discord"> <br>
+⚡ Fun fact **I didn't believe javascript is bad!** <br>
+<img alt="img" src="https://spotify-github-profile.vercel.app/api/view?uid=31w3d76oyju7uug52hu5ueemeldy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" onclick="window.open('https://spotify-github-profile.vercel.app/api/view?uid=31g6ueb4azhuk3zdjbz43pwaonsu&redirect=true')">
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
-- ⚡ Fun fact **I started coding 2 years ago**
-
-- ⚡ Fun fact **I didn't believe javascript is bad!**
 <details>
     <summary>My social Media</summary>
     @gamers_indo1223
