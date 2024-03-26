@@ -9,8 +9,8 @@
 <img alt="img" src="https://spotify-github-profile.vercel.app/api/view?uid=31w3d76oyju7uug52hu5ueemeldy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" onclick="window.open('https://spotify-github-profile.vercel.app/api/view?uid=31g6ueb4azhuk3zdjbz43pwaonsu&redirect=true')">
  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gamersindo1223/gamersindo1223/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gamersindo1223/gamersindo1223/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
