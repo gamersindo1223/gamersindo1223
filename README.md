@@ -9,10 +9,9 @@
 <img width="25%" align="right" alt="img" src="https://spotify-github-profile.vercel.app/api/view?uid=31w3d76oyju7uug52hu5ueemeldy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" onclick="window.open('https://spotify-github-profile.vercel.app/api/view?uid=31g6ueb4azhuk3zdjbz43pwaonsu&redirect=true')" >
     
 </p>
-
 <div align="left">
 ⚡ Fun fact <b>I started coding at 2020</b> <br>
-⚡ Fun fact <b>I didn't believe javascript is bad!</b>
+⚡ Fun fact <b>I  believe javascript is bad!</b>
 </div>
  
 <picture>
