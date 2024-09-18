@@ -9,7 +9,7 @@
 
 <div align="left">
 ⚡ Fun fact <b>I started coding at 2020</b> <br>
-⚡ Fun fact <b>I  believe javascript is bad!</b>
+⚡ Fun fact <b>I now mostly used golang and js!</b>
 </div>
  
 <picture>
