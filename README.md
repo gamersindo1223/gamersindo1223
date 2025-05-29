@@ -49,7 +49,7 @@
 <!-- MAL_ANIMECOMPLETED:GRID_END -->
 <!-- MAL_ANIMEWATCHING:GRID -->
  <details>
-<summary align="left">MyAnimeList Watching</summary><img height="200px" width="150px" title="Komi Can't Communicate (Komi-san wa Comyushou desu.) • Eps (7/12)" src="https://cdn.myanimelist.net/images/anime/1899/117237.jpg"><img height="200px" width="150px" title="KonoSuba: An Explosion on This Wonderful World! (Kono Subarashii Sekai ni Bakuen wo!) • Eps (1/12)" src="https://cdn.myanimelist.net/images/anime/1626/135844.jpg"><img height="200px" width="150px" title="Alya Sometimes Hides Her Feelings in Russian (Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san) • Eps (3/12)" src="https://cdn.myanimelist.net/images/anime/1825/142258.jpg"></details> 
+<summary align="left">MyAnimeList Watching</summary><img height="200px" width="150px" title="Komi Can't Communicate (Komi-san wa Comyushou desu.) • Eps (7/12)" src="https://cdn.myanimelist.net/images/anime/1899/117237.jpg"><img height="200px" width="150px" title="KonoSuba: An Explosion on This Wonderful World! (Kono Subarashii Sekai ni Bakuen wo!) • Eps (1/12)" src="https://cdn.myanimelist.net/images/anime/1626/135844.jpg"><img height="200px" width="150px" title="Alya Sometimes Hides Her Feelings in Russian (Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san) • Eps (3/12)" src="https://cdn.myanimelist.net/images/anime/1825/142258.jpg"><img height="200px" width="150px" title="A Sign of Affection (Yubisaki to Renren) • Eps (2/12)" src="https://cdn.myanimelist.net/images/anime/1478/140828.jpg"></details> 
 <!-- MAL_ANIMEWATCHING:GRID_END -->
 <!-- MAL_ANIMEPTW:GRID -->
  <details>
