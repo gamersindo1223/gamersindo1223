@@ -20,9 +20,9 @@
 
 ### About me
 - 🧑‍💻 Started coding **in 2020**
-- 🛠️ Mostly using **Go** and **JavaScript** (sprinkles of **TypeScript** & **React**)
+- 🛠️ Mostly used  **Go** and **JavaScript** (sprinkles of **TypeScript** & **React**)
 - 🎯 Building small tools, bots, and web apps for fun
-- 📫 Reach me on **Discord**: `radith,go` (ID: `694370838719234151`)
+- 📫 Reach me on **Discord**: `radith.go` (ID: `694370838719234151`)
 
 ---
 
